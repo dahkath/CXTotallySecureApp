@@ -15,5 +15,7 @@ Note that if this application is run, this Java application can result in system
     
 :clock4: For more detail
 -
+
+Test Code
    
 See [the wiki page](https://github.com/k-tamura/easybuggy4sb/wiki).
